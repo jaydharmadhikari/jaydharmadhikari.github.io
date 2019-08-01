@@ -10,4 +10,4 @@ Digichain’s debut product is Fractal, a revolutionary new digital service. Muc
 4. When our user bases’ network of devices has collectively processed all the data, the processed files are securely sent back to the client.
 
 
-![Image](https://mail.google.com/mail/u/0?ui=2&ik=8e24dd4c9c&attid=0.1&permmsgid=msg-a:r-2905678955347962683&th=16c4426689ed7dd6&view=fimg&realattid=f_jyq5q8hj0&disp=thd&attbid=ANGjdJ-0wr9LDw0LvkOAIlgoL7ae0Qa07Hsj8N9jUgVkfPXuWVK25QZiiTbv7NmNGaOsLa3nWT3jRMC3VGp4CNlEps63Evi5muLVlZ9XIcSZ0rgGUR2hwS8S1NqjCqE&ats=2524608000000&sz=w1920-h969)
+![Image](https://imgur.com/LQQiaPm)
