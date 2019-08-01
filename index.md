@@ -1,38 +1,13 @@
 ## Welcome to Digichain's official website
 
-You can use the [editor on GitHub](https://github.com/Digichaincompany/home/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Digichain is a software solutions company focused on empowering thinkers and innovators to create the technology of tomorrow. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Fractal
+Digichain’s debut product is Fractal, a revolutionary new digital service. Much like the infinitely repeating fractals of mathematics, Fractal utilizes a global network of devices to offer its services. Here’s how the app works:
+1. Clients (expected to be scientific researchers and big data corporations) pay a fee to securely send Fractal large volumes of data that needs to be processed and analyzed.
+2. When an individual who has downloaded Fractal has a phone that is at 100% battery capacity, charging, and idle, Fractal downloads a small chunk of encrypted data to be processed and processed the data on the phone.
+3. The individual who processed the data earns rewards proportional to the amount of data processed.
+4. When our user bases’ network of devices has collectively processed all the data, the processed files are securely sent back to the client.
 
-### why this not working
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# workkkkkk
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Digichaincompany/home/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-![Image](https://fractalfoundation.org/wp-content/uploads/2018/01/GreetingCard-Lauren-2-copy.jpg)
+![Image](https://mail.google.com/mail/u/0?ui=2&ik=8e24dd4c9c&attid=0.1&permmsgid=msg-a:r-2905678955347962683&th=16c4426689ed7dd6&view=fimg&realattid=f_jyq5q8hj0&disp=thd&attbid=ANGjdJ-0wr9LDw0LvkOAIlgoL7ae0Qa07Hsj8N9jUgVkfPXuWVK25QZiiTbv7NmNGaOsLa3nWT3jRMC3VGp4CNlEps63Evi5muLVlZ9XIcSZ0rgGUR2hwS8S1NqjCqE&ats=2524608000000&sz=w1920-h969)
