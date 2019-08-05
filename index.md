@@ -1,7 +1,15 @@
 ## Welcome to Digichain's official website
 
 Digichain is a software solutions company focused on empowering thinkers and innovators to create the technology of tomorrow. 
-
+<!doctype html>
+<html>
+  <head>
+    <title>This is the title of the webpage!</title>
+  </head>
+  <body>
+    <p>This is an example paragraph. Anything in the <strong>body</strong> tag will appear on the page, just like this <strong>p</strong> tag and its contents.</p>
+  </body>
+</html>
 ## Fractal
 Digichain’s debut product is Fractal, a revolutionary new digital service. Much like the infinitely repeating fractals of mathematics, Fractal utilizes a global network of devices to offer its services. Here’s how the app works:
 1. Clients (expected to be scientific researchers and big data corporations) pay a fee to securely send Fractal large volumes of data that needs to be processed and analyzed.
