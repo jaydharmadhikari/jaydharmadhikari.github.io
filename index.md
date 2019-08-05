@@ -1,7 +1,6 @@
 ## Welcome to Digichain's official website
 
 Digichain is a software solutions company focused on empowering thinkers and innovators to create the technology of tomorrow. 
-<!doctype html>
 <html>
   <head>
     <title>This is the title of the webpage!</title>
