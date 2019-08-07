@@ -215,8 +215,8 @@ input, select, textarea {
 
 	h1 {
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
-		font-size: 3.25rem;
-		font-weight: 700;
+		font-size: 3rem;
+		font-weight: 600;
 		letter-spacing: -0.05em;
 		line-height: 1.1;
 		margin: 0 0 1.5rem 0;
@@ -224,7 +224,7 @@ input, select, textarea {
 	}
 
 	h2 {
-		font-size: 1.25rem;
+		font-size: 2rem;
 		font-weight: 800;
 		margin: 0 0 2rem 0;
 	}
@@ -248,12 +248,12 @@ input, select, textarea {
 	@media screen and (max-width: 736px) {
 
 		h1 {
-			font-size: 3.25rem;
+			font-size: 3rem;
 			line-height: 1.1;
 		}
 
 		h2 {
-			font-size: 1.25rem;
+			font-size: 2rem;
 			line-height: 1.7;
 		}
 
@@ -274,7 +274,7 @@ input, select, textarea {
 	@media screen and (max-width: 360px) {
 
 		h1 {
-			font-size: 3.25rem;
+			font-size: 3rem;
 		}
 
 		h2 {
