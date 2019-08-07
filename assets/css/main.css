@@ -204,7 +204,7 @@ input, select, textarea {
 		font-weight: 600;
 		letter-spacing: 0.175em;
 		line-height: 1.75;
-		margin: 0 0 1.5rem 4rem;
+		margin: 0 0 1.5rem -4rem;
 		text-transform: uppercase;
 	}
 
@@ -219,7 +219,7 @@ input, select, textarea {
 		font-weight: 600;
 		letter-spacing: -0.05em;
 		line-height: 1.1;
-		margin: 0 0 1.5rem 4rem;
+		margin: 0 0 1.5rem -4rem;
 		text-transform: none;
 	}
 
@@ -499,7 +499,7 @@ input, select, textarea {
 
 		.row.gtr-0 {
 			margin-top: 0;
-			margin-left: 0rem;
+			margin-left: -4rem;
 		}
 
 			.row.gtr-0 > * {
@@ -742,7 +742,7 @@ input, select, textarea {
 
 				.row.gtr-0 {
 					margin-top: 0;
-					margin-left: 0rem;
+					margin-left: -4rem;
 				}
 
 					.row.gtr-0 > * {
